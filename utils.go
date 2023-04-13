@@ -139,7 +139,7 @@ func CatchPanic(res *Res) {
 	}
 }
 
-// format timeStamp to string
+// format timeStamp to string2
 // timeInput: timestamp or "now"
 func FormatDatatime(timeTime time.Time, formatType string) string {
 
